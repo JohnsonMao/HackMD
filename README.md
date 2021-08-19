@@ -1,64 +1,36 @@
-毛毛前端筆記 📚
-===
+###### tags: `關於我`
 
-###### tags: `Front-end`
+# 💬 前言
 
-[![hackmd-github-sync-badge](https://hackmd.io/_LXdcpnQQu27E8K_jyOJOg/badge)](https://hackmd.io/@JohnsonMao/Front-end/)
+## 大家好! 我是毛毛🙇
 
-- [💬 前言](/1aO7EIBfRXeym0AisOMRmQ)
+目前從事的行業是跟前端八竿子打不著邊的👨‍🍳廚師，
+因為疫情的關係，
+多了許多的時間可以好好投資自己，
+今年五月 ( 2021/ 5 ) 開始學習前端相關技能，
+期許能在今年成功轉行。
 
-👨‍🏫 六角學院 - 筆記
----
+## 關於這裡
 
-- [📕 Vue 3 夏令營 - 筆記](/@JohnsonMao/Summer-Camp-Vue3)
-- [📕 (待更新)六角筆記王 - 筆記](/@JohnsonMao/notebook-king)
-- [📕 (待更新)程式體驗營 - 筆記](/@JohnsonMao/welfare)
+會紀錄我學習前端技術的筆記，
+嘗試將自己的學習過程記錄下來，
+除了更加確實的活用技術，
+也希望能幫助到未來想來學習前端技術的人，
+如果發現內容有誤，
+也請你不吝指教，感謝🙏。
 
-⚛️ React - 從 0 開始學 React 篇
----
+## 對未來
 
-- [📕 React - 從 0 開始學 React 篇](/@JohnsonMao/React)
+還想學習 Cocos 或 Unity。
+夢想是製作出一個網頁社群遊戲，
+期望同時具有教育意義。
 
-✨ 特效
----
+:::info
+<i class="fa fa-id-card"></i> 我的個人簡介
+- [<i class="fa fa-github"></i> JohnsonMao](https://github.com/JohnsonMao)
+- [<i class="fa fa-instagram"></i> maomao.owo](https://www.instagram.com/maomao.owo/)
+- <i class="fa fa-birthday-cake"></i> 83 / 12 / 26
+- <i class="fa fa-graduation-cap" style="margin-left: -2px; margin-right: -2px;"></i> 宏國德霖科技大學 / 餐飲廚藝系
+:::
 
-- [🔥 火焰 - 用 CSS 刻畫出生動的火焰](/1zqP8AOESKqjKuGmlTrjOA)
-
-🎨 CSS
----
-
-- [👨‍👩‍👧‍👦 box-shadow 之多重影分身](/APKTs_0sQymaZzwynE-DKg)
-
-🔧 小工具 & 小筆記
----
-
-- [🎨 客製化自己的 HackMD](/FH3vO0x-TVSeMsFvdf23Nw)
-
-💎 值得收藏
----
-
-- [📚 優質筆記](/62o7gGIKSS6B229C1OgSNw)
-- [🌐 優質網站](/E6_LiL4YSG6oAca51aSPsw)
-- [<span style="filter: hue-rotate(135deg)">▶️</span> 優質影片 - 待更新](/1uRpDhlaRgWv7gr-7V1Cfw)
-
-💚 Vue
----
-
-- [敬請期待](/8ggaA_7XRyafcE-Uo3uYuw)
-
-🏠 HTML
----
-
-- [敬請期待](/cXt04O0_QEyxxc94GmvbbA)
-
-⚙️ Javascript
----
-
-- [敬請期待](/ik4gEimwRBW4Yc_GUZK0Kg)
-
-🎉 Hexo
----
-
-- [敬請期待](/9ZDYdngeREmF3ilXKIjtdQ)
-
-{%hackmd @JohnsonMao/theme-Night-Sidebar %}
+{%hackmd @JohnsonMao/theme-Wood-Fired %}
