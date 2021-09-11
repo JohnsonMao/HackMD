@@ -8,22 +8,31 @@
 - [💬 前言](/1aO7EIBfRXeym0AisOMRmQ)
 - [📅 學習規劃](/yPa5gNZKT_2Yh_oLOShnmg)
 
+👨‍💻 iT 鐵人賽
+---
+
+- [2021 iT 鐵人賽<span class="tag undone">興建中</span>](/@JohnsonMao/HyNHUHRCO)
+
 👨‍🏫 六角學院
 ---
 
-- [📕 六角筆記王<span class="activity in-progress">活動進行中 (2021/7/26~2021/9/12)</span><span class="tag new">更新</span>](/@JohnsonMao/notebook-king)
-- [📕 Vue 3 新手夏令營<span class="activity finished">活動已結束</span>](/@JohnsonMao/Summer-Camp-Vue3)
-- [📕 六角學院程式體驗營<span class="activity finished">活動已結束</span><span class="tag undone">興建中</span>](/@JohnsonMao/welfare)
+- [📕 六角筆記王<span class="tag new">更新</span>](/@JohnsonMao/notebook-king)
+- [📕 Vue 3 新手夏令營](/@JohnsonMao/Summer-Camp-Vue3)
 
 ⚙️ Javascript
 ---
 
-- [📕 JS 必修篇 - 前端修練全攻略<span class="activity in-progress">活動進行中 (2021/7/26~2021/9/12)</span><span class="tag undone">興建中</span>](/@JohnsonMao/hexschool_JS)
+- [📕 JS 必修篇 - 前端修練全攻略<span class="tag undone">興建中</span>](/@JohnsonMao/hexschool_JS)
 
 ⚛️ React - 從 0 開始學 React 篇
 ---
 
 - [📕 React - 從 0 開始學 React 篇](/@JohnsonMao/React)
+
+🍃 MongoDB
+---
+
+- [🍃 MongoDB<span class="tag undone">興建中</span>](/WU7Xc7-ATRi5986cHQpqaw)
 
 🧰 VS Code
 ---
@@ -58,14 +67,14 @@
 - [🌏 優質網站](/E6_LiL4YSG6oAca51aSPsw)
 - [<span style="filter: hue-rotate(135deg)">▶️</span> 優質影片<span class="tag undone">興建中</span>](/1uRpDhlaRgWv7gr-7V1Cfw)
 
+🖥 Node
+---
+
+- [敬請期待<span class="tag undone">興建中</span>](/LfNCiGMeSa2W2rD7pAADpQ)
+
 💚 Vue
 ---
 
 - [敬請期待<span class="tag undone">興建中</span>](/8ggaA_7XRyafcE-Uo3uYuw)
-
-🏠 HTML
----
-
-- [敬請期待<span class="tag undone">興建中</span>](/cXt04O0_QEyxxc94GmvbbA)
 
 {%hackmd @JohnsonMao/theme-Night-Sidebar %}
